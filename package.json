@@ -1,0 +1,15 @@
+{
+  "name": "web-ndraacloud",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Web ndraacloud - MVP website pembelian otomatis (QRIS) + UI Tailwind + Vercel Functions",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "qrcode": "^1.5.4",
+    "mongodb": "^6.5.0"
+  }
+}
